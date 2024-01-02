@@ -103,7 +103,7 @@ nav h3 {
 }
 
 #center {
-  height: 65vh;
+  height: 75vh;
   width: 100%;
   /* background-color: orange; */
   display: flex;
@@ -137,7 +137,7 @@ nav h3 {
   width: 46vw;
   height: 36vw;
   right: 0;
-  top: 65vh;
+  top: 77vh;
 }
 
 #hero-1 {
